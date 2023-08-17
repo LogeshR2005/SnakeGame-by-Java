@@ -63,7 +63,8 @@ Avoid Collisions: Be careful not to collide with the walls of the game area or t
 
 Game Over: When the snake collides with an obstacle, the game ends. Your final score will be displayed, and you can choose to restart the game.
 
-Installation
+Installation Steps
+
  Step 1 :  Clone the repository
 
  Step 2 : Compile the Java source files.
