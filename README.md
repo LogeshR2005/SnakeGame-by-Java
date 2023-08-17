@@ -36,7 +36,7 @@ Sure, I'd be happy to help you with a detailed description of your Snake Game pr
 Snake Game in Java
 Snake Game Demo <!-- Replace with a GIF or screenshot of your game -->
 
-Description
+# Description
 This project is a classic Snake Game implemented in Java. The Snake Game is a popular retro game where the player controls a snake that continuously moves around the screen. The objective of the game is to eat as much food as possible while avoiding collisions with the walls of the game area and the snake's own body. The snake grows longer each time it consumes food, making the game progressively more challenging.
 
 The game features a simple graphical user interface using Java's Swing library, providing a visually engaging experience for players. It is designed to be easy to play, yet challenging to master, making it suitable for players of all ages.
@@ -63,7 +63,7 @@ Avoid Collisions: Be careful not to collide with the walls of the game area or t
 
 Game Over: When the snake collides with an obstacle, the game ends. Your final score will be displayed, and you can choose to restart the game.
 
-Installation Steps
+# Installation Steps
 
  Step 1 :  Clone the repository
 
@@ -72,6 +72,7 @@ Installation Steps
  Step3 : Compile the Java source files.
 
 
- Dependencies
+ # Dependencies
+ 
   * Java Development Kit (JDK)
   * Java Swing Library
